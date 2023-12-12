@@ -23,6 +23,6 @@ The app satisfies:
 
 - Persist events between refreshes of a page
 
-URL:
+URL: http://127.0.0.1:5500/starter/index.html
 
 GITHUB: https://github.com/Kjhohura24/daily-planner
