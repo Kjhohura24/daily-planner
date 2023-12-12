@@ -24,4 +24,5 @@ The app satisfies:
 - Persist events between refreshes of a page
 
 URL:
-GITHUB:
+
+GITHUB: https://github.com/Kjhohura24/daily-planner
